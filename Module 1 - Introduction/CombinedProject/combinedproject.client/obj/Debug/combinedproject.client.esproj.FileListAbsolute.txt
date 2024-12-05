@@ -1,0 +1,1 @@
+C:\Training\React-and-ASP.NET-Core\Module 1 - Introduction\CombinedProject\combinedproject.client\obj\Debug\combinedproject.client.esproj.CoreCompileInputs.cache
