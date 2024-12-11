@@ -13,7 +13,7 @@ export default function MapExample() {
       >
         {arr.map((number, index) => (
           <option key={index + 1} value={index + 1}>
-            {index + 1}
+            Select {index + 1}
           </option>
         ))}
       </select>
