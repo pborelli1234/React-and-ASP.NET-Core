@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "osnFU6XYNFLeiPPQsr5uBwMgqr0cP/TXXQ3z9rLbU9ukFF4GXof5UkZr2pbcN3OCFF/Ah+UmyoVmG3u0m8Uppw==",
+  "success": true,
+  "projectFilePath": "C:\\Training\\React-and-ASP.NET-Core\\Module 1 - Introduction\\CombinedProject\\CombinedProject.Server\\CombinedProject.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penbo\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.11\\microsoft.aspnetcore.spaproxy.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

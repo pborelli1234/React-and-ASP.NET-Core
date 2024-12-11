@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "us+z9Y7fxIMVTpBIzlkBMA5uWiVhe0WPUpQ5whPLC0U=",
+  "Source": "CombinedProject.Server",
+  "BasePath": "_content/CombinedProject.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Training\\React-and-ASP.NET-Core\\Module 1 - Introduction\\CombinedProject\\combinedproject.client\\combinedproject.client.esproj",
+      "Version": 2,
+      "Source": "combinedproject.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

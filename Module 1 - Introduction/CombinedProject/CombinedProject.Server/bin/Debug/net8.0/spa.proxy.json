@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Training\\React-and-ASP.NET-Core\\Module 1 - Introduction\\CombinedProject\\CombinedProject.Server\\..\\combinedproject.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
