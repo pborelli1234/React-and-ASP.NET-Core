@@ -1,0 +1,8 @@
+// creating a react application
+
+npx create-react-app react-movies-intro --template typescript
+
+npm start
+
+// install router package
+npm i react-router-dom@5.2
