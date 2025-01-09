@@ -6,3 +6,12 @@ npm start
 
 // install router package
 npm i react-router-dom@5.2
+
+npm i --save-dev @types/react-router-dom
+
+// Forms
+npm i formik@2.2.0
+
+npm install yup@0.32.9
+
+npm i react-bootstrap-typeahead@5.1.4

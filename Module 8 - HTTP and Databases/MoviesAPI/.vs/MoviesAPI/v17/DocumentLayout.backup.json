@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\filters\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\filters\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\filters\\myactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\filters\\myactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\moviesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\moviesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\services\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\validations\\firstletteruppercaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\validations\\firstletteruppercaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|c:\\training\\react-and-asp.net-core\\module 7 - asp.net core\\moviesapi\\moviesapi\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D845178D-01A6-49C3-8956-99279F65ABD7}|MoviesAPI\\MoviesAPI.csproj|solutionrelative:moviesapi\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Filters\\MyExceptionFilter.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Filters\\MyExceptionFilter.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Filters\\MyExceptionFilter.cs",
+              "RelativeToolTip": "MoviesAPI\\Filters\\MyExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:42:51.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyActionFilter.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Filters\\MyActionFilter.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Filters\\MyActionFilter.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Filters\\MyActionFilter.cs",
+              "RelativeToolTip": "MoviesAPI\\Filters\\MyActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:34:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstLetterUppercaseAttribute.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Validations\\FirstLetterUppercaseAttribute.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Validations\\FirstLetterUppercaseAttribute.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Validations\\FirstLetterUppercaseAttribute.cs",
+              "RelativeToolTip": "MoviesAPI\\Validations\\FirstLetterUppercaseAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:28:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Program.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Program.cs",
+              "RelativeToolTip": "MoviesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:59:24.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "MoviesAPI\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:02:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Services\\IRepository.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Services\\IRepository.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Services\\IRepository.cs",
+              "RelativeToolTip": "MoviesAPI\\Services\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:01:44.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Services\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Services\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Services\\InMemoryRepository.cs",
+              "RelativeToolTip": "MoviesAPI\\Services\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:01:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesAPI.csproj",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+              "RelativeDocumentMoniker": "MoviesAPI\\MoviesAPI.csproj",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\MoviesAPI.csproj",
+              "RelativeToolTip": "MoviesAPI\\MoviesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T09:59:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MoviesAPI\\appsettings.json",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\appsettings.json",
+              "RelativeToolTip": "MoviesAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T13:19:22.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "MoviesAPI\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Training\\React-and-ASP.NET-Core\\Module 7 - ASP.NET Core\\MoviesAPI\\MoviesAPI\\Entities\\Genre.cs",
+              "RelativeToolTip": "MoviesAPI\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:00:29.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
