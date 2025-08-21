@@ -1,0 +1,57 @@
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MoviesAPINew.Dtos;
+using MoviesAPINew.Entities;
+
+namespace MoviesAPINew.Controllers
+{
+    [Route("api/ratings")]
+    [ApiController]
+    public class RatingsController : ControllerBase
+    {
+        private readonly ApplicationDbContext _context;
+        private readonly UserManager<IdentityUser> _userManager;
+
+        public RatingsController(ApplicationDbContext context, UserManager<IdentityUser> userManager)
+        {
+            _context = context;
+            _userManager = userManager;
+        }
+
+        [HttpPost]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+        public async Task<ActionResult> Post([FromBody] RatingDTO ratingDTO)
+        {
+            //var email = HttpContext.User.Claims.FirstOrDefault(x => x.Type == "email").Value;
+            var email = HttpContext.User.Claims.FirstOrDefault().Value;
+
+            var user = await _userManager.FindByEmailAsync(email);
+            var userId = user.Id;
+
+            var currentRate = await _context.Rating.FirstOrDefaultAsync(x => x.MovieId == ratingDTO.MovieId
+                                       && x.UserId == userId);
+
+            if (currentRate == null)
+            {
+                var rating = new Rating();
+
+                rating.MovieId = ratingDTO.MovieId;
+                rating.Rate = ratingDTO.Rating;
+                rating.UserId = userId;
+
+                _context.Rating.Add(rating);
+            } 
+            else
+            {
+                currentRate.Rate = ratingDTO.Rating;
+            }
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+    }
+}
